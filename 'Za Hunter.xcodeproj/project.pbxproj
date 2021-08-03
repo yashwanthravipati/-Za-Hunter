@@ -11,6 +11,7 @@
 		C84CB98A26B8E977007BA74A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84CB98926B8E977007BA74A /* ContentView.swift */; };
 		C84CB98C26B8E979007BA74A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C84CB98B26B8E979007BA74A /* Assets.xcassets */; };
 		C84CB98F26B8E979007BA74A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C84CB98E26B8E979007BA74A /* Preview Assets.xcassets */; };
+		C85BFD2E26B8EFF800367EA2 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85BFD2D26B8EFF800367EA2 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C84CB98B26B8E979007BA74A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C84CB98E26B8E979007BA74A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C84CB99026B8E979007BA74A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C85BFD2D26B8EFF800367EA2 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C84CB98726B8E977007BA74A /* _Za_HunterApp.swift */,
 				C84CB98926B8E977007BA74A /* ContentView.swift */,
+				C85BFD2D26B8EFF800367EA2 /* LocationManager.swift */,
 				C84CB98B26B8E979007BA74A /* Assets.xcassets */,
 				C84CB99026B8E979007BA74A /* Info.plist */,
 				C84CB98D26B8E979007BA74A /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				C84CB98A26B8E977007BA74A /* ContentView.swift in Sources */,
 				C84CB98826B8E977007BA74A /* _Za_HunterApp.swift in Sources */,
+				C85BFD2E26B8EFF800367EA2 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
