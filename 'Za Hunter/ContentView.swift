@@ -35,6 +35,7 @@ struct ContentView: View {
             performSearch(item: "Pizza")
         })
     }
+    
     func performSearch(item: String) {
         let searchRequest = MKLocalSearch.Request()
         searchRequest.naturalLanguageQuery = item
